@@ -50,5 +50,4 @@ entre as variáveis é linear, nem requer que as variáveis sejam quantitativas<
 pode ser usado para as variáveis medidas no nível ordinal. 
 
 
-<i>Referência:</i>
 [Correalação - UFSC](https://www.inf.ufsc.br/~vera.carmo/Correlacao/Correlacao_Pearson_Spearman_Kendall.pdf)
