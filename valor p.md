@@ -17,6 +17,9 @@ Outro equívoco é achar que se o valor-p for maior do que 5%, o novo tratamento
 
 
 Referências:
+
 [J Bras Pneumol. 2015;41(5):485-485](https://www.scielo.br/pdf/jbpneu/v41n5/pt_1806-3713-jbpneu-41-05-00485.pdf)
 
 [P-Value with Python](https://towardsdatascience.com/p-value-basics-with-python-code-ae5316197c52)
+
+[Calcular Valor-p](https://www.youtube.com/watch?v=xlE7Zb5x9m0)
