@@ -12,3 +12,11 @@ O <b> valor-p é definido como a probabilidade de se observar um valor da estat�
 ### Valor-p não significante
 
 Outro equívoco é achar que se o valor-p for maior do que 5%, o novo tratamento não tem nenhum efeito. O valor-p indica a probabilidade de se observar uma diferença tão grande ou maior do que a que foi observada sob a hipótese nula. Mas se o novo tratamento tiver um efeito de tamanho menor, um estudo com uma pequena amostra pode não ter poder suficiente para detectá-lo.
+
+![valorp](https://blog.minitab.com/hs-fs/hubfs/teste-t-para-uma-amostra.jpg?width=351&name=teste-t-para-uma-amostra.jpg)
+
+
+Referências:
+[J Bras Pneumol. 2015;41(5):485-485](https://www.scielo.br/pdf/jbpneu/v41n5/pt_1806-3713-jbpneu-41-05-00485.pdf)
+
+[P-Value with Python](https://towardsdatascience.com/p-value-basics-with-python-code-ae5316197c52)
